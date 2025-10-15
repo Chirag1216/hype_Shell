@@ -1,2 +1,3 @@
-# hype_Shell
-project on a basic shell
+# Shell-practice
+
+test and debug code before putting it in actual shell(Uday Prakash)
