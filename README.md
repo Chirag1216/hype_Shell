@@ -1,3 +1,4 @@
 # Shell-practice
 
-test and debug code before putting it in actual shell(Uday Prakash)
+test and debug code before putting it in actual shell
+
